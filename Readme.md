@@ -22,3 +22,11 @@
 ### Escalabilidad
 #### Desplegar la App para que los tecnicos la tengan instalada en sus moviles
 #### Entrenar al modelo para que pueda predecir futuras fallas analizando el historial
+### Librerias utilizadas
+#### Pandas : leer archivo
+#### Plotly : genera grafico
+#### PIL : abre imagen png
+### Implementacion
+#### en el archivo practica_bot se ejecuta el promt texto-texto (consulta a fallas.json)
+#### en grafico_bot se ejecuta el promt texto-imagen 
+#### (genera un archivo inyectoras_plastico.csv y muestra el grafico en un inyectoras_analisis.html)
